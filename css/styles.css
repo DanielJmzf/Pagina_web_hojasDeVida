@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    font-family: Arial, sans-serif;
+    font-family: 'Inter', sans-serif;
     background-color: #f2f2f2;
 }
 
@@ -10,6 +10,7 @@ header {
     color: white;
     text-align: center;
     padding: 20px;
+    font-weight: 500;
 }
 
 .logo {
@@ -91,6 +92,7 @@ nav a:hover {
 
 .card h2 {
     margin: 10px 0 5px 0;
+    font-weight: 600;
 }
 
 .card p {
