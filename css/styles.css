@@ -9,14 +9,14 @@ header {
     background-color: #0d3b66;
     color: white;
     text-align: center;
-    padding: 20px;
-    font-weight: 500;
+    padding: 40px;
+    font-weight: 300;
 }
 
 .logo {
     font-weight: bold;
     text-align: left;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 }
 
 /* NAV */
